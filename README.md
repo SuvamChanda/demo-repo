@@ -1,8 +1,3 @@
-# Demo 
+# Learn React 
 
-Some Description!
-
-
-## Subheader
-
-Wath tutorial in Youtube!git status
+About JSX
