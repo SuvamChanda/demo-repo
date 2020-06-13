@@ -1,3 +1,3 @@
-# Learn React 
+# Learn JSX 
 
-## About JSX
+
